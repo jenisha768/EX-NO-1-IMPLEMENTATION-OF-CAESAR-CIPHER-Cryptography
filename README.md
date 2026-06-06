@@ -16,6 +16,8 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
+### NAME :JENISHA TEENA ROSE F
+### REGISTER NUMBER :2305001010
 ```
 #include <stdio.h>
 
